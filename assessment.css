@@ -1,0 +1,26 @@
+body{
+  background-color: #04a6eb;
+  color: #fdffff;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+button {
+  padding: 5px 20px;
+  background-color: #337ab7;
+  color: #fdffff;
+  border-style: none;
+}
+#user-name {
+  font-size: 1rem;
+}
+
+input {
+  height: 1.5rem;
+}
+
+p{
+  font-weight: bold;
+  font-size: 1.2rem;
+}
